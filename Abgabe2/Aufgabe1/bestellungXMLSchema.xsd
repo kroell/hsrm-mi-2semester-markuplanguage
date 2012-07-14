@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"> 
+
+	<xsd:element name = "Bestellung">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref = "Datum"/>
+				<xsd:element ref = "Adresse"/>
+				<xsd:element ref = "Positionen"/>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name= "Datum" type = "xsd:date"/>
+	
+	<xsd:element name = "Adresse">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref = "PLZ"/>
+				<xsd:element ref = "Erstbesteller"/>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+	
+	<xsd:element name = "PLZ">
+		<xsd:simpleType>
+			<xsd:restriction base="xsd:integer">
+				<xsd:totalDigits value = "5"/>
+			</xsd:restriction>
+		 </xsd:simpleType>
+	</xsd:element>
+	
+	<xsd:element name = "Erstbesteller" type = "xsd:boolean"/>
+	
+	<xsd:element name="Positionen">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="Bestellposition"/>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+	
+	<xsd:element name="Bestellposition">
+		<xsd:complexType>
+			<xsd:choice>
+				<xsd:element ref="Artikel"/>
+				<xsd:element ref="Dienstleistung"/>
+			</xsd:choice>
+		</xsd:complexType>
+	</xsd:element>
+		
+	<xsd:element name="Artikel">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="Anzahl" />
+				<xsd:element ref="Bestellnummer"/>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>	
+	
+	<xsd:element name="Dienstleistung">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="Anzahl" />
+				<xsd:element ref="Bestellnummer"/>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+	
+	<xsd:element name="Anzahl">
+		<xsd:simpleType>
+			<xsd:restriction base = "xsd:integer">
+				<xsd:minInclusive value = "1"/>
+				<xsd:maxInclusive value = "150"/>
+			</xsd:restriction>
+		</xsd:simpleType>
+	</xsd:element>	
+	
+	<xsd:element name="Bestellnummer">
+		<xsd:simpleType>
+			<xsd:restriction base="xsd:string">
+				<xsd:pattern value="B11\d{2}-[A-Z]{2}-\d{2}"/>
+			</xsd:restriction>		
+		</xsd:simpleType>
+	</xsd:element>
+		
+</xsd:schema>

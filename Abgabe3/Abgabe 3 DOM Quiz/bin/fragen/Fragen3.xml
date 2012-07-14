@@ -1,0 +1,982 @@
+<?xml version="1.0"?>
+<fragekatalog>
+  <frage gebiet="nasen">
+    <fragetext>Welches Messer-Ding gibt es seit 18?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="nein">Ping</antwort>
+      <antwort korrekt="nein">Lampe</antwort>
+      <antwort korrekt="ja">Mandli</antwort>
+      <antwort korrekt="nein">Friedfert</antwort>
+      <antwort korrekt="nein">Bla</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="zoologie">
+    <fragetext>Mit welchem Namen ist die Entdeckung des Messer verbunden?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="nein">Busfahrer</antwort>
+      <antwort korrekt="nein">Buch</antwort>
+      <antwort korrekt="nein">Schockchi</antwort>
+      <antwort korrekt="ja">Joghurta</antwort>
+      <antwort korrekt="nein">Forscher</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="zoologie">
+    <fragetext>Wer kann mehr Messer weidomieren als Friedfert?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="nein">Gabel</antwort>
+      <antwort korrekt="ja">Grompf</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="geographie">
+    <fragetext>Welches Wecker-Ding gibt es seit 16?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="nein">Joendhard</antwort>
+      <antwort korrekt="nein">Regal</antwort>
+      <antwort korrekt="ja">Blupp</antwort>
+      <antwort korrekt="nein">Grompf</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="sport">
+    <fragetext>Welches Lampe-Ding gibt es seit 5?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="nein">Schockchi</antwort>
+      <antwort korrekt="ja">Nussi</antwort>
+      <antwort korrekt="nein">Klonck</antwort>
+      <antwort korrekt="nein">Regal</antwort>
+      <antwort korrekt="nein">Schranke</antwort>
+      <antwort korrekt="nein">Lampe</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="sport">
+    <fragetext>Wie kann ein Badrulbudur irgendein Loeffel erkennen?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="ja">Loeffel</antwort>
+      <antwort korrekt="nein">Busfahrer</antwort>
+      <antwort korrekt="nein">Wecker</antwort>
+      <antwort korrekt="nein">Mandli</antwort>
+      <antwort korrekt="nein">Metzger</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="nasen">
+    <fragetext>Wie kann ein Joendhard irgendein Nussi erleuchten?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="nein">Buch</antwort>
+      <antwort korrekt="ja">Nussi</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="sport">
+    <fragetext>Womit kann man verdunkeln?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="nein">Baecker</antwort>
+      <antwort korrekt="ja">Schockchi</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="nasen">
+    <fragetext>Wer war der erste Busfahrer?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="nein">Forscher</antwort>
+      <antwort korrekt="nein">Regal</antwort>
+      <antwort korrekt="ja">Badrulbudur</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="sport">
+    <fragetext>Wie kann ein Friedfert irgendein Regal erleuchten?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="ja">Softwareentwickler</antwort>
+      <antwort korrekt="nein">Blupp</antwort>
+      <antwort korrekt="nein">Ping</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="nasen">
+    <fragetext>Wer kann mehr Messer trahen als Joendhard?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="ja">Baecker</antwort>
+      <antwort korrekt="nein">Lampe</antwort>
+      <antwort korrekt="nein">Nussi</antwort>
+      <antwort korrekt="nein">Softwareentwickler</antwort>
+      <antwort korrekt="nein">Telefon</antwort>
+      <antwort korrekt="nein">Friedfert</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="sport">
+    <fragetext>Mit welchem Namen ist die Entdeckung des Schockchi verbunden?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="ja">Busfahrer</antwort>
+      <antwort korrekt="nein">Nussi</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="zoologie">
+    <fragetext>Welches Schranke-Ding gibt es seit 5?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="nein">Schranke</antwort>
+      <antwort korrekt="nein">Lampe</antwort>
+      <antwort korrekt="nein">Joendhard</antwort>
+      <antwort korrekt="nein">Forscher</antwort>
+      <antwort korrekt="ja">Pffr</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="astrophysik">
+    <fragetext>Wer war der erste Forscher?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="ja">Baecker</antwort>
+      <antwort korrekt="nein">Busfahrer</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="nasen">
+    <fragetext>Wer kann mehr Nussi trekolieren als Joghurta?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="ja">Busfahrer</antwort>
+      <antwort korrekt="nein">Lampe</antwort>
+      <antwort korrekt="nein">Bla</antwort>
+      <antwort korrekt="nein">Buch</antwort>
+      <antwort korrekt="nein">Metzger</antwort>
+      <antwort korrekt="nein">Ping</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="geographie">
+    <fragetext>Wie kann ein Joghurta irgendein Telefon begluecken?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="ja">Telefon</antwort>
+      <antwort korrekt="nein">Joendhard</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="astrophysik">
+    <fragetext>Wer kann mehr Loeffel vordompfeln als Badrulbudur?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="nein">Schockchi</antwort>
+      <antwort korrekt="nein">Wecker</antwort>
+      <antwort korrekt="nein">Fasel</antwort>
+      <antwort korrekt="ja">Bla</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="nasen">
+    <fragetext>Womit kann man begluecken?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="nein">Fasel</antwort>
+      <antwort korrekt="nein">Blupp</antwort>
+      <antwort korrekt="nein">Mandli</antwort>
+      <antwort korrekt="nein">Schranke</antwort>
+      <antwort korrekt="ja">Badrulbudur</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="zoologie">
+    <fragetext>Wieviele Ping hat ein Blupp?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="nein">Buch</antwort>
+      <antwort korrekt="nein">Fasel</antwort>
+      <antwort korrekt="ja">Klonck</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="sport">
+    <fragetext>Wer kann mehr Telefon verdunkeln als Badrulbudur?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="ja">Buch</antwort>
+      <antwort korrekt="nein">Nussi</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="astrophysik">
+    <fragetext>Wer kann mehr Gabel trekolieren als Friedfert?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="nein">Bla</antwort>
+      <antwort korrekt="nein">Regal</antwort>
+      <antwort korrekt="nein">Loeffel</antwort>
+      <antwort korrekt="ja">Badrulbudur</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="geographie">
+    <fragetext>Womit kann man trekolieren?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="nein">Joendhard</antwort>
+      <antwort korrekt="nein">Bla</antwort>
+      <antwort korrekt="ja">Klonck</antwort>
+      <antwort korrekt="nein">Gabel</antwort>
+      <antwort korrekt="nein">Fasel</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="astrophysik">
+    <fragetext>Wieviele Pffr hat ein Fasel?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="nein">Gabel</antwort>
+      <antwort korrekt="nein">Softwareentwickler</antwort>
+      <antwort korrekt="nein">Wecker</antwort>
+      <antwort korrekt="nein">Buch</antwort>
+      <antwort korrekt="nein">Schockchi</antwort>
+      <antwort korrekt="ja">Baecker</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="nasen">
+    <fragetext>Wie kann ein Badrulbudur irgendein Gabel begluecken?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="ja">Badrulbudur</antwort>
+      <antwort korrekt="nein">Grompf</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="astrophysik">
+    <fragetext>Wie kann ein Friedfert irgendein Schockchi weidomieren?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="ja">Blupp</antwort>
+      <antwort korrekt="nein">Klonck</antwort>
+      <antwort korrekt="nein">Joghurta</antwort>
+      <antwort korrekt="nein">Lampe</antwort>
+      <antwort korrekt="nein">Gabel</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="nasen">
+    <fragetext>Wer war der erste Busfahrer?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="nein">Blupp</antwort>
+      <antwort korrekt="ja">Busfahrer</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="astrophysik">
+    <fragetext>Womit kann man verdunkeln?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="nein">Joendhard</antwort>
+      <antwort korrekt="nein">Fasel</antwort>
+      <antwort korrekt="nein">Schranke</antwort>
+      <antwort korrekt="ja">Klonck</antwort>
+      <antwort korrekt="nein">Bla</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="geographie">
+    <fragetext>Wer war der erste Forscher?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="nein">Regal</antwort>
+      <antwort korrekt="nein">Buch</antwort>
+      <antwort korrekt="ja">Nussi</antwort>
+      <antwort korrekt="nein">Badrulbudur</antwort>
+      <antwort korrekt="nein">Pffr</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="sport">
+    <fragetext>Wer kann mehr Loeffel trahen als Friedfert?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="ja">Wecker</antwort>
+      <antwort korrekt="nein">Regal</antwort>
+      <antwort korrekt="nein">Metzger</antwort>
+      <antwort korrekt="nein">Softwareentwickler</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="sport">
+    <fragetext>Womit kann man vordompfeln?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="ja">Blupp</antwort>
+      <antwort korrekt="nein">Softwareentwickler</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="sport">
+    <fragetext>Mit welchem Namen ist die Entdeckung des Buch verbunden?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="nein">Baecker</antwort>
+      <antwort korrekt="nein">Telefon</antwort>
+      <antwort korrekt="ja">Bla</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="sport">
+    <fragetext>Womit kann man krassen?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="nein">Friedfert</antwort>
+      <antwort korrekt="ja">Badrulbudur</antwort>
+      <antwort korrekt="nein">Gabel</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="geographie">
+    <fragetext>Welches Lampe-Ding gibt es seit 7?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="ja">Buch</antwort>
+      <antwort korrekt="nein">Schranke</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="astrophysik">
+    <fragetext>Wie kann ein Joghurta irgendein Nussi haben?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="nein">Messer</antwort>
+      <antwort korrekt="ja">Buch</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="geographie">
+    <fragetext>Mit welchem Namen ist die Entdeckung des Gabel verbunden?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="nein">Busfahrer</antwort>
+      <antwort korrekt="nein">Regal</antwort>
+      <antwort korrekt="nein">Klonck</antwort>
+      <antwort korrekt="ja">Messer</antwort>
+      <antwort korrekt="nein">Loeffel</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="nasen">
+    <fragetext>Wieviele Grompf hat ein Grompf?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="ja">Friedfert</antwort>
+      <antwort korrekt="nein">Telefon</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="zoologie">
+    <fragetext>Wie kann ein Badrulbudur irgendein Buch verdunkeln?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="ja">Busfahrer</antwort>
+      <antwort korrekt="nein">Friedfert</antwort>
+      <antwort korrekt="nein">Buch</antwort>
+      <antwort korrekt="nein">Metzger</antwort>
+      <antwort korrekt="nein">Baecker</antwort>
+      <antwort korrekt="nein">Messer</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="sport">
+    <fragetext>Welches Mandli-Ding gibt es seit 15?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="nein">Ping</antwort>
+      <antwort korrekt="nein">Lampe</antwort>
+      <antwort korrekt="nein">Bla</antwort>
+      <antwort korrekt="nein">Nussi</antwort>
+      <antwort korrekt="nein">Klonck</antwort>
+      <antwort korrekt="ja">Schranke</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="nasen">
+    <fragetext>Welches Loeffel-Ding gibt es seit 2?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="nein">Friedfert</antwort>
+      <antwort korrekt="ja">Ping</antwort>
+      <antwort korrekt="nein">Pffr</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="astrophysik">
+    <fragetext>Wie kann ein Badrulbudur irgendein Gabel bedoelen?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="nein">Mandli</antwort>
+      <antwort korrekt="nein">Wecker</antwort>
+      <antwort korrekt="ja">Joendhard</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="sport">
+    <fragetext>Wer war der erste Baecker?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="nein">Badrulbudur</antwort>
+      <antwort korrekt="nein">Metzger</antwort>
+      <antwort korrekt="ja">Messer</antwort>
+      <antwort korrekt="nein">Fasel</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="zoologie">
+    <fragetext>Welches Gabel-Ding gibt es seit 7?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="nein">Schockchi</antwort>
+      <antwort korrekt="ja">Nussi</antwort>
+      <antwort korrekt="nein">Messer</antwort>
+      <antwort korrekt="nein">Badrulbudur</antwort>
+      <antwort korrekt="nein">Softwareentwickler</antwort>
+      <antwort korrekt="nein">Metzger</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="zoologie">
+    <fragetext>Wieviele Bla hat ein Fasel?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="ja">Wecker</antwort>
+      <antwort korrekt="nein">Joendhard</antwort>
+      <antwort korrekt="nein">Metzger</antwort>
+      <antwort korrekt="nein">Busfahrer</antwort>
+      <antwort korrekt="nein">Messer</antwort>
+      <antwort korrekt="nein">Nussi</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="zoologie">
+    <fragetext>Womit kann man erkennen?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="nein">Joghurta</antwort>
+      <antwort korrekt="nein">Forscher</antwort>
+      <antwort korrekt="nein">Badrulbudur</antwort>
+      <antwort korrekt="ja">Blupp</antwort>
+      <antwort korrekt="nein">Nussi</antwort>
+      <antwort korrekt="nein">Fasel</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="geographie">
+    <fragetext>Womit kann man begluecken?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="nein">Joghurta</antwort>
+      <antwort korrekt="ja">Messer</antwort>
+      <antwort korrekt="nein">Forscher</antwort>
+      <antwort korrekt="nein">Joendhard</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="zoologie">
+    <fragetext>Wer war der erste Baecker?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="nein">Wecker</antwort>
+      <antwort korrekt="nein">Joghurta</antwort>
+      <antwort korrekt="nein">Bla</antwort>
+      <antwort korrekt="ja">Softwareentwickler</antwort>
+      <antwort korrekt="nein">Lampe</antwort>
+      <antwort korrekt="nein">Nussi</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="sport">
+    <fragetext>Welches Loeffel-Ding gibt es seit 8?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="nein">Klonck</antwort>
+      <antwort korrekt="ja">Badrulbudur</antwort>
+      <antwort korrekt="nein">Softwareentwickler</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="geographie">
+    <fragetext>Wieviele Pffr hat ein Klonck?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="ja">Blupp</antwort>
+      <antwort korrekt="nein">Badrulbudur</antwort>
+      <antwort korrekt="nein">Schranke</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="astrophysik">
+    <fragetext>Welches Regal-Ding gibt es seit 9?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="nein">Metzger</antwort>
+      <antwort korrekt="nein">Friedfert</antwort>
+      <antwort korrekt="nein">Telefon</antwort>
+      <antwort korrekt="nein">Fasel</antwort>
+      <antwort korrekt="nein">Forscher</antwort>
+      <antwort korrekt="ja">Badrulbudur</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="nasen">
+    <fragetext>Wie kann ein Friedfert irgendein Loeffel erleuchten?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="nein">Buch</antwort>
+      <antwort korrekt="nein">Busfahrer</antwort>
+      <antwort korrekt="ja">Joendhard</antwort>
+      <antwort korrekt="nein">Pffr</antwort>
+      <antwort korrekt="nein">Gabel</antwort>
+      <antwort korrekt="nein">Loeffel</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="geographie">
+    <fragetext>Womit kann man erkennen?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="nein">Messer</antwort>
+      <antwort korrekt="ja">Telefon</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="zoologie">
+    <fragetext>Welches Gabel-Ding gibt es seit 4?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="nein">Loeffel</antwort>
+      <antwort korrekt="ja">Blupp</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="astrophysik">
+    <fragetext>Mit welchem Namen ist die Entdeckung des Messer verbunden?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="nein">Fasel</antwort>
+      <antwort korrekt="nein">Klonck</antwort>
+      <antwort korrekt="nein">Forscher</antwort>
+      <antwort korrekt="nein">Lampe</antwort>
+      <antwort korrekt="nein">Buch</antwort>
+      <antwort korrekt="ja">Friedfert</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="nasen">
+    <fragetext>Wer kann mehr Loeffel begluecken als Joghurta?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="nein">Messer</antwort>
+      <antwort korrekt="ja">Buch</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="sport">
+    <fragetext>Wer war der erste Softwareentwickler?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="nein">Nussi</antwort>
+      <antwort korrekt="ja">Metzger</antwort>
+      <antwort korrekt="nein">Forscher</antwort>
+      <antwort korrekt="nein">Loeffel</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="zoologie">
+    <fragetext>Wieviele Bla hat ein Fasel?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="nein">Mandli</antwort>
+      <antwort korrekt="ja">Grompf</antwort>
+      <antwort korrekt="nein">Pffr</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="sport">
+    <fragetext>Wer kann mehr Gabel verdunkeln als Joendhard?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="ja">Joghurta</antwort>
+      <antwort korrekt="nein">Busfahrer</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="geographie">
+    <fragetext>Womit kann man krassen?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="nein">Messer</antwort>
+      <antwort korrekt="nein">Metzger</antwort>
+      <antwort korrekt="nein">Friedfert</antwort>
+      <antwort korrekt="nein">Gabel</antwort>
+      <antwort korrekt="ja">Buch</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="geographie">
+    <fragetext>Welches Telefon-Ding gibt es seit 11?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="nein">Bla</antwort>
+      <antwort korrekt="ja">Klonck</antwort>
+      <antwort korrekt="nein">Schockchi</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="geographie">
+    <fragetext>Womit kann man vordompfeln?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="nein">Buch</antwort>
+      <antwort korrekt="ja">Metzger</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="geographie">
+    <fragetext>Wieviele Bla hat ein Fasel?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="ja">Schranke</antwort>
+      <antwort korrekt="nein">Friedfert</antwort>
+      <antwort korrekt="nein">Regal</antwort>
+      <antwort korrekt="nein">Busfahrer</antwort>
+      <antwort korrekt="nein">Lampe</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="astrophysik">
+    <fragetext>Wieviele Ping hat ein Blupp?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="nein">Telefon</antwort>
+      <antwort korrekt="ja">Messer</antwort>
+      <antwort korrekt="nein">Lampe</antwort>
+      <antwort korrekt="nein">Fasel</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="sport">
+    <fragetext>Womit kann man haben?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="nein">Metzger</antwort>
+      <antwort korrekt="nein">Loeffel</antwort>
+      <antwort korrekt="ja">Regal</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="nasen">
+    <fragetext>Wer war der erste Baecker?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="ja">Loeffel</antwort>
+      <antwort korrekt="nein">Buch</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="zoologie">
+    <fragetext>Wieviele Grompf hat ein Klonck?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="nein">Pffr</antwort>
+      <antwort korrekt="ja">Klonck</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="nasen">
+    <fragetext>Wieviele Blupp hat ein Klonck?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="nein">Gabel</antwort>
+      <antwort korrekt="ja">Blupp</antwort>
+      <antwort korrekt="nein">Nussi</antwort>
+      <antwort korrekt="nein">Metzger</antwort>
+      <antwort korrekt="nein">Busfahrer</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="geographie">
+    <fragetext>Welches Lampe-Ding gibt es seit 15?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="nein">Ping</antwort>
+      <antwort korrekt="ja">Metzger</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="astrophysik">
+    <fragetext>Wieviele Grompf hat ein Ping?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="nein">Grompf</antwort>
+      <antwort korrekt="ja">Bla</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="nasen">
+    <fragetext>Wie kann ein Joendhard irgendein Wecker weidomieren?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="nein">Badrulbudur</antwort>
+      <antwort korrekt="nein">Schockchi</antwort>
+      <antwort korrekt="nein">Nussi</antwort>
+      <antwort korrekt="ja">Regal</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="zoologie">
+    <fragetext>Wer kann mehr Schranke sammeln als Badrulbudur?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="ja">Mandli</antwort>
+      <antwort korrekt="nein">Nussi</antwort>
+      <antwort korrekt="nein">Softwareentwickler</antwort>
+      <antwort korrekt="nein">Joendhard</antwort>
+      <antwort korrekt="nein">Badrulbudur</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="zoologie">
+    <fragetext>Wer kann mehr Buch beraten als Friedfert?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="nein">Baecker</antwort>
+      <antwort korrekt="nein">Loeffel</antwort>
+      <antwort korrekt="ja">Schockchi</antwort>
+      <antwort korrekt="nein">Regal</antwort>
+      <antwort korrekt="nein">Joghurta</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="sport">
+    <fragetext>Wieviele Klonck hat ein Grompf?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="nein">Schockchi</antwort>
+      <antwort korrekt="ja">Busfahrer</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="sport">
+    <fragetext>Wieviele Blupp hat ein Ping?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="nein">Mandli</antwort>
+      <antwort korrekt="ja">Badrulbudur</antwort>
+      <antwort korrekt="nein">Blupp</antwort>
+      <antwort korrekt="nein">Friedfert</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="geographie">
+    <fragetext>Wieviele Blupp hat ein Bla?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="ja">Schockchi</antwort>
+      <antwort korrekt="nein">Wecker</antwort>
+      <antwort korrekt="nein">Mandli</antwort>
+      <antwort korrekt="nein">Nussi</antwort>
+      <antwort korrekt="nein">Telefon</antwort>
+      <antwort korrekt="nein">Schranke</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="sport">
+    <fragetext>Mit welchem Namen ist die Entdeckung des Loeffel verbunden?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="ja">Mandli</antwort>
+      <antwort korrekt="nein">Baecker</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="geographie">
+    <fragetext>Wieviele Blupp hat ein Ping?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="nein">Fasel</antwort>
+      <antwort korrekt="ja">Regal</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="zoologie">
+    <fragetext>Wer war der erste Metzger?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="nein">Grompf</antwort>
+      <antwort korrekt="ja">Ping</antwort>
+      <antwort korrekt="nein">Bla</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="geographie">
+    <fragetext>Womit kann man trahen?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="nein">Baecker</antwort>
+      <antwort korrekt="nein">Buch</antwort>
+      <antwort korrekt="nein">Joendhard</antwort>
+      <antwort korrekt="ja">Nussi</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="astrophysik">
+    <fragetext>Womit kann man glogeren?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="nein">Gabel</antwort>
+      <antwort korrekt="ja">Wecker</antwort>
+      <antwort korrekt="nein">Nussi</antwort>
+      <antwort korrekt="nein">Buch</antwort>
+      <antwort korrekt="nein">Forscher</antwort>
+      <antwort korrekt="nein">Fasel</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="sport">
+    <fragetext>Wieviele Bla hat ein Fasel?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="nein">Telefon</antwort>
+      <antwort korrekt="ja">Grompf</antwort>
+      <antwort korrekt="nein">Gabel</antwort>
+      <antwort korrekt="nein">Schockchi</antwort>
+      <antwort korrekt="nein">Mandli</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="zoologie">
+    <fragetext>Womit kann man bedoelen?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="nein">Blupp</antwort>
+      <antwort korrekt="ja">Badrulbudur</antwort>
+      <antwort korrekt="nein">Wecker</antwort>
+      <antwort korrekt="nein">Ping</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="astrophysik">
+    <fragetext>Wieviele Klonck hat ein Klonck?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="nein">Nussi</antwort>
+      <antwort korrekt="nein">Fasel</antwort>
+      <antwort korrekt="ja">Regal</antwort>
+      <antwort korrekt="nein">Bla</antwort>
+      <antwort korrekt="nein">Schockchi</antwort>
+      <antwort korrekt="nein">Softwareentwickler</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="geographie">
+    <fragetext>Wie kann ein Friedfert irgendein Schranke weidomieren?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="nein">Joendhard</antwort>
+      <antwort korrekt="ja">Nussi</antwort>
+      <antwort korrekt="nein">Badrulbudur</antwort>
+      <antwort korrekt="nein">Forscher</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="sport">
+    <fragetext>Mit welchem Namen ist die Entdeckung des Schockchi verbunden?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="nein">Schranke</antwort>
+      <antwort korrekt="nein">Metzger</antwort>
+      <antwort korrekt="nein">Busfahrer</antwort>
+      <antwort korrekt="ja">Grompf</antwort>
+      <antwort korrekt="nein">Badrulbudur</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="nasen">
+    <fragetext>Womit kann man trekolieren?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="nein">Regal</antwort>
+      <antwort korrekt="nein">Baecker</antwort>
+      <antwort korrekt="nein">Joghurta</antwort>
+      <antwort korrekt="ja">Schranke</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="zoologie">
+    <fragetext>Womit kann man krassen?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="ja">Telefon</antwort>
+      <antwort korrekt="nein">Regal</antwort>
+      <antwort korrekt="nein">Messer</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="zoologie">
+    <fragetext>Wieviele Ping hat ein Klonck?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="nein">Baecker</antwort>
+      <antwort korrekt="nein">Metzger</antwort>
+      <antwort korrekt="nein">Fasel</antwort>
+      <antwort korrekt="ja">Regal</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="nasen">
+    <fragetext>Welches Messer-Ding gibt es seit 5?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="nein">Fasel</antwort>
+      <antwort korrekt="nein">Bla</antwort>
+      <antwort korrekt="nein">Mandli</antwort>
+      <antwort korrekt="nein">Badrulbudur</antwort>
+      <antwort korrekt="nein">Schranke</antwort>
+      <antwort korrekt="ja">Telefon</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="nasen">
+    <fragetext>Wie kann ein Badrulbudur irgendein Lampe bedoelen?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="ja">Loeffel</antwort>
+      <antwort korrekt="nein">Fasel</antwort>
+      <antwort korrekt="nein">Wecker</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="astrophysik">
+    <fragetext>Wie kann ein Friedfert irgendein Lampe trekolieren?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="ja">Klonck</antwort>
+      <antwort korrekt="nein">Gabel</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="sport">
+    <fragetext>Wer kann mehr Loeffel trekolieren als Joghurta?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="nein">Telefon</antwort>
+      <antwort korrekt="ja">Nussi</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="nasen">
+    <fragetext>Wer war der erste Baecker?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="ja">Lampe</antwort>
+      <antwort korrekt="nein">Busfahrer</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="zoologie">
+    <fragetext>Wer war der erste Softwareentwickler?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="ja">Loeffel</antwort>
+      <antwort korrekt="nein">Joghurta</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="geographie">
+    <fragetext>Womit kann man erkennen?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="ja">Badrulbudur</antwort>
+      <antwort korrekt="nein">Schranke</antwort>
+      <antwort korrekt="nein">Schockchi</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="zoologie">
+    <fragetext>Wieviele Ping hat ein Bla?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="nein">Joendhard</antwort>
+      <antwort korrekt="ja">Forscher</antwort>
+      <antwort korrekt="nein">Klonck</antwort>
+      <antwort korrekt="nein">Schranke</antwort>
+      <antwort korrekt="nein">Loeffel</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="astrophysik">
+    <fragetext>Wer war der erste Softwareentwickler?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="nein">Forscher</antwort>
+      <antwort korrekt="ja">Buch</antwort>
+      <antwort korrekt="nein">Nussi</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="astrophysik">
+    <fragetext>Womit kann man bevonkelen?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="nein">Busfahrer</antwort>
+      <antwort korrekt="nein">Grompf</antwort>
+      <antwort korrekt="nein">Gabel</antwort>
+      <antwort korrekt="ja">Joghurta</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="nasen">
+    <fragetext>Wieviele Fasel hat ein Blupp?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="ja">Telefon</antwort>
+      <antwort korrekt="nein">Bla</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="zoologie">
+    <fragetext>Wer kann mehr Gabel verdunkeln als Joendhard?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="ja">Ping</antwort>
+      <antwort korrekt="nein">Pffr</antwort>
+      <antwort korrekt="nein">Badrulbudur</antwort>
+      <antwort korrekt="nein">Grompf</antwort>
+      <antwort korrekt="nein">Wecker</antwort>
+      <antwort korrekt="nein">Messer</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+  <frage gebiet="nasen">
+    <fragetext>Wie kann ein Joghurta irgendein Buch vordompfeln?</fragetext>
+    <antwortmoeglichkeiten>
+      <antwort korrekt="nein">Busfahrer</antwort>
+      <antwort korrekt="nein">Gabel</antwort>
+      <antwort korrekt="nein">Metzger</antwort>
+      <antwort korrekt="nein">Wecker</antwort>
+      <antwort korrekt="nein">Joendhard</antwort>
+      <antwort korrekt="ja">Pffr</antwort>
+    </antwortmoeglichkeiten>
+  </frage>
+
+</fragekatalog>

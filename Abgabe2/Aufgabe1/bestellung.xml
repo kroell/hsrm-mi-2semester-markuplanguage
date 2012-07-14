@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bestellung SYSTEM "bestellungDTD.dtd">
+
+<Bestellung>
+	<Datum>2011-05-05</Datum>
+	<Adresse>
+		<Name>Max Mustermann</Name>
+		<Strasse>Beispielgasse 12</Strasse>
+		<PLZ>12345</PLZ>
+		<Ort>Musterhausen</Ort>
+		<Erstbesteller>true</Erstbesteller>
+	      </Adresse>
+	<Positionen>
+		<Bestellposition>
+			<Artikel>
+				<Bestellnummer>R305-GK-12</Bestellnummer>
+				<Anzahl>5</Anzahl>
+			</Artikel>
+		</Bestellposition>
+		<Bestellposition>
+			<Dienstleistung>
+				<Bestellnummer>R386-RU-57</Bestellnummer>
+				<Anzahl>2</Anzahl>
+			</Dienstleistung>
+		</Bestellposition>
+	</Positionen>
+</Bestellung>

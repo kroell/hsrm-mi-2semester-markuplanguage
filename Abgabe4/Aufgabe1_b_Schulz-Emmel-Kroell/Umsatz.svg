@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 950 1500" height="1500" width="950">
+<g style="stroke:rgb(0,0,0);fill:rgb(0,0,255)">
+<line style="stroke:rgb(0,0,0);stroke-width:5" y2="540" x2="50" y1="30" x1="50"/>
+<line style="stroke:rgb(0,0,0);stroke-width:5" y2="540" x2="600" y1="540" x1="50"/>
+<line style="stroke:rgb(0,0,0);stroke-width:5" y2="60" x2="60" y1="60" x1="40"/>
+<line style="stroke:rgb(0,0,0);stroke-width:5" y2="100" x2="60" y1="100" x1="40"/>
+<line style="stroke:rgb(0,0,0);stroke-width:5" y2="140" x2="60" y1="140" x1="40"/>
+<line style="stroke:rgb(0,0,0);stroke-width:5" y2="180" x2="60" y1="180" x1="40"/>
+<line style="stroke:rgb(0,0,0);stroke-width:5" y2="220" x2="60" y1="220" x1="40"/>
+<line style="stroke:rgb(0,0,0);stroke-width:5" y2="260" x2="60" y1="260" x1="40"/>
+<line style="stroke:rgb(0,0,0);stroke-width:5" y2="300" x2="60" y1="300" x1="40"/>
+<line style="stroke:rgb(0,0,0);stroke-width:5" y2="340" x2="60" y1="340" x1="40"/>
+<line style="stroke:rgb(0,0,0);stroke-width:5" y2="380" x2="60" y1="380" x1="40"/>
+<line style="stroke:rgb(0,0,0);stroke-width:5" y2="420" x2="60" y1="420" x1="40"/>
+<line style="stroke:rgb(0,0,0);stroke-width:5" y2="460" x2="60" y1="460" x1="40"/>
+<line style="stroke:rgb(0,0,0);stroke-width:5" y2="500" x2="60" y1="500" x1="40"/>
+<text style="font-size: 15" y="100" x="30">
+<tspan y="20" x="10">Monat</tspan>
+<tspan y="65" x="5">AUG</tspan>
+<tspan y="105" x="5">SEP</tspan>
+<tspan y="145" x="5">OCT</tspan>
+<tspan y="185" x="5">NOV</tspan>
+<tspan y="225" x="5">DEC</tspan>
+<tspan y="265" x="5">JAN</tspan>
+<tspan y="305" x="5">FEB</tspan>
+<tspan y="345" x="5">MAR</tspan>
+<tspan y="385" x="5">APR</tspan>
+<tspan y="425" x="5">MAY</tspan>
+<tspan y="465" x="5">JUN</tspan>
+<tspan y="505" x="5">JUL</tspan>
+<tspan y="545" x="610">Umsatz in €</tspan>
+</text>
+<rect style="fill:rgb(255,20,147)" height="25" width="376.04" y="47" x="52"/>
+<text>
+<tspan y="65" x="440">37.604</tspan>
+</text>
+<rect style="fill:rgb(255,20,147)" height="25" width="330.715" y="87" x="52"/>
+<text>
+<tspan y="105" x="390">33.071,50</tspan>
+</text>
+<rect style="fill:rgb(255,20,147)" height="25" width="316.55" y="127" x="52"/>
+<text>
+<tspan y="145" x="380">31.655</tspan>
+</text>
+<rect style="fill:rgb(255,20,147)" height="25" width="338.795" y="167" x="52"/>
+<text>
+<tspan y="185" x="400">33.879,50</tspan>
+</text>
+<rect style="fill:rgb(255,20,147)" height="25" width="441.23" y="207" x="52"/>
+<text>
+<tspan y="225" x="500">44.123</tspan>
+</text>
+<rect style="fill:rgb(255,20,147)" height="25" width="518.58" y="247" x="52"/>
+<text>
+<tspan y="265" x="580">51.858</tspan>
+</text>
+<rect style="fill:rgb(255,20,147)" height="25" width="489.3" y="287" x="52"/>
+<text>
+<tspan y="305" x="550">48.930</tspan>
+</text>
+<rect style="fill:rgb(255,192,203)" height="25" width="536.67" y="327" x="52"/>
+<text>
+<tspan y="345" x="600">53.667</tspan>
+</text>
+<rect style="fill:rgb(255,20,147)" height="25" width="429.575" y="367" x="52"/>
+<text>
+<tspan y="385" x="490">42.957,50</tspan>
+</text>
+<rect style="fill:rgb(255,20,147)" height="25" width="374.045" y="407" x="52"/>
+<text>
+<tspan y="425" x="430">37.404,50</tspan>
+</text>
+<rect style="fill:rgb(255,20,147)" height="25" width="362.615" y="447" x="52"/>
+<text>
+<tspan y="465" x="420">36.261,50</tspan>
+</text>
+<rect style="fill:rgb(255,20,147)" height="25" width="402.595" y="487" x="52"/>
+<text>
+<tspan y="505" x="460">40.259,50</tspan>
+</text>
+</g>
+</svg>

@@ -1,0 +1,18 @@
+	
+<!ELEMENT Bestellung (Datum, Adresse, Positionen)>
+	<!ELEMENT Datum (#PCDATA)>
+	
+	<!ELEMENT Adresse (Name, Strasse, PLZ, Ort, Erstbesteller)>
+		<!ELEMENT Name (#PCDATA)>
+		<!ELEMENT Strasse (#PCDATA)>
+		<!ELEMENT PLZ (#PCDATA)>
+		<!ELEMENT Ort (#PCDATA)>
+		<!ELEMENT Erstbesteller (#PCDATA)>
+	
+	<!ELEMENT Positionen (Bestellposition*)>
+		<!ELEMENT Bestellposition (Artikel|Dienstleistung)>
+			<!ELEMENT Artikel (Bestellnummer+, Anzahl+)>
+				<!ELEMENT Bestellnummer (#PCDATA)>
+				<!ELEMENT Anzahl (#PCDATA)>
+			<!ELEMENT Dienstleistung (Bestellnummer+, Anzahl+)>
+				
