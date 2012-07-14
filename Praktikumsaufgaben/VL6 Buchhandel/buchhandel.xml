@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<buchhandel>
+    <buch ersch-jahr="1996" isbn="3-899-77609-7">
+        <buchtitel>Where Wizards Stay Up Late</buchtitel>
+        <buchautor>Hafner, Katie</buchautor>
+        <buchautor>Lyon, Matthew</buchautor>
+        <buchverlag>Touchstone</buchverlag>
+        <preis waehrung="Dollar">14.00</preis>
+    </buch>
+    <buch ersch-jahr="2001" kat="reisen" isbn="3-899-77610-5">
+        <buchtitel>Yet Another Hitchhiker's Guide to the Galaxy</buchtitel>
+        <buchautor>Adams, Douglas</buchautor>
+        <buchverlag>Spacetrotter Publishing</buchverlag>
+        <preis waehrung="Dollar">17.00</preis>
+    </buch>
+    <buch ersch-jahr="1950" kat="tiere" isbn="">
+        <buchtitel>Unter Korallen und Haien</buchtitel>
+        <buchautor>Hass, Hans</buchautor>
+        <buchverlag>Ozean Verlag</buchverlag>
+        <preis waehrung="Euro">222.95</preis>
+    </buch>
+    <buch ersch-jahr="2000" kat="tiere" isbn="3-899-77608-5">
+        <buchtitel>Wunder der Tiefsee</buchtitel>
+        <buchautor>Braun, Bert</buchautor>
+        <buchverlag>Ozean Verlag</buchverlag>
+        <preis waehrung="Euro">14.00</preis>
+    </buch>
+    <buch ersch-jahr="2002" kat="reisen">
+        <buchtitel>Unterm Gipfelkreuz</buchtitel>
+        <buchautor>Assmann, Peter</buchautor>
+        <buchverlag>Berg Verlag</buchverlag>
+        <preis waehrung="Euro">14.00</preis>
+    </buch>
+    <buch ersch-jahr="2001">
+        <buchtitel>So lerne ich Java</buchtitel>
+        <buchautor>Panter, Peter</buchautor>
+        <buchautor>Jobst, Julius</buchautor>
+        <buchverlag>EDV Verlag</buchverlag>
+        <preis waehrung="Euro">37.95</preis>
+    </buch>
+    <buch ersch-jahr="1960" kat="reisen" isbn="">
+        <buchtitel>Ganz oben</buchtitel>
+        <buchautor>Hansen, Carl</buchautor>
+        <buchverlag>Berg Verlag</buchverlag>
+        <preis waehrung="Euro">20.95</preis>
+    </buch>
+    <buch ersch-jahr="1990" kat="tiere">
+        <buchtitel>Hoffmann der Katzenfreund</buchtitel>
+        <buchautor>Murr, Kater</buchautor>
+        <buchverlag>Miau Verlag</buchverlag>
+        <preis waehrung="Euro">22.95</preis>
+    </buch>
+    <buch ersch-jahr="2000" kat="tiere" isbn="3-890-77608-5">
+        <buchtitel>Aale im Streiflicht</buchtitel>
+        <buchautor>Braun, Bert</buchautor>
+        <buchverlag>Ozean Verlag</buchverlag>
+        <preis waehrung="Euro">14.00</preis>
+    </buch>
+    <buch ersch-jahr="1961" kat="reisen">
+        <buchtitel>Noch weiter oben</buchtitel>
+        <buchautor>Hansen, Carl</buchautor>
+        <buchverlag>Berg Verlag</buchverlag>
+        <preis waehrung="Euro">23.95</preis>
+    </buch>
+    <buch ersch-jahr="1993" kat="tiere">
+        <buchtitel>Vom Umgang mit Hunden</buchtitel>
+        <buchautor>Murr, Kater</buchautor>
+        <buchverlag>Miau Verlag</buchverlag>
+        <preis waehrung="Euro">23.95</preis>
+    </buch>
+    <buch ersch-jahr="2002" kat="reisen" isbn="3-899-77611-7">
+        <buchtitel>Bergwandern in den Alpen</buchtitel>
+        <buchautor>Assmann, Peter</buchautor>
+        <buchverlag>Berg Verlag</buchverlag>
+        <preis waehrung="Euro">14.00</preis>
+    </buch>
+    <buch ersch-jahr="1993" kat="tiere">
+        <buchtitel>Another Dog's Guide</buchtitel>
+        <buchautor>Murr, Kater</buchautor>
+        <buchverlag>Miau Publishing</buchverlag>
+        <preis waehrung="Dollar">23.95</preis>
+    </buch>
+    <buch ersch-jahr="1989" kat="reisen" isbn="3-899-776129-7">
+        <buchtitel>Wenn der Berg ruft</buchtitel>
+        <buchautor>Assmann, Peter</buchautor>
+        <buchverlag>Berg Verlag</buchverlag>
+        <preis waehrung="Euro">12.00</preis>
+    </buch>
+    <buch ersch-jahr="1995" kat="reisen">
+        <buchtitel>Java für Urlauber</buchtitel>
+        <buchautor>Neckermann, Nick</buchautor>
+        <buchverlag>Globetrotter Verlag</buchverlag>
+        <preis waehrung="Euro">19.95</preis>
+    </buch>
+    <buch ersch-jahr="2002">
+        <buchtitel>Java für Praktiker</buchtitel>
+        <buchautor>Jobst, Julius</buchautor>
+        <buchverlag>EDV Verlag</buchverlag>
+        <preis waehrung="Euro">42.95</preis>
+    </buch>
+    <buch ersch-jahr="2003">
+        <buchtitel>Java für Theoretiker Bd.1</buchtitel>
+        <buchautor>Jobst, Julius</buchautor>
+        <buchverlag>EDV Verlag</buchverlag>
+        <preis waehrung="Euro">42.95</preis>
+    </buch>
+    <buch ersch-jahr="2004">
+        <buchtitel>JavaScript Grundlagen</buchtitel>
+        <buchautor>Tiger, Theobald</buchautor>
+        <buchverlag>Java Verlag</buchverlag>
+        <preis waehrung="Euro">25.00</preis>
+    </buch>
+    <buch ersch-jahr="2003">
+        <buchtitel>Reguläre Ausdrücke</buchtitel>
+        <buchautor>Esser, Klaus</buchautor>
+        <buchverlag>Java Verlag</buchverlag>
+        <preis waehrung="Euro">25.00</preis>
+    </buch>
+    <buch ersch-jahr="2004">
+        <buchtitel>Irreguläre Ausdrücke</buchtitel>
+        <buchautor>Esser, Klaus</buchautor>
+        <buchverlag>Java Verlag</buchverlag>
+        <preis waehrung="Euro">27.00</preis>
+    </buch>
+    <buch ersch-jahr="2003">
+        <buchtitel>Java für Theoretiker Bd.2</buchtitel>
+        <buchautor>Jobst, Julius</buchautor>
+        <buchverlag>EDV Verlag</buchverlag>
+        <preis waehrung="Euro">42.95</preis>
+    </buch>
+    <buch ersch-jahr="1997" kat="reisen" isbn="3-899-77615-4">
+        <buchtitel>Hitchhiker's Guide to the Galaxy</buchtitel>
+        <buchautor>Adams, Douglas</buchautor>
+        <buchverlag>Spacetrotter Publishing</buchverlag>
+        <preis waehrung="Dollar">12.00</preis>
+    </buch>
+    <buch ersch-jahr="1999" kat="reisen" isbn="3-899-77617-4">
+        <buchtitel>Another Hitchhiker's Guide to the Galaxy</buchtitel>
+        <buchautor>Adams, Douglas</buchautor>
+        <buchverlag>Spacetrotter Publishing</buchverlag>
+        <preis waehrung="Dollar">15.00</preis>
+    </buch>
+    <buch ersch-jahr="1998" isbn="3-899-77618-4">
+        <buchtitel>Java für Anfänger</buchtitel>
+        <buchautor>Tiger, Theobald</buchautor>
+        <buchverlag>Java Verlag</buchverlag>
+        <preis waehrung="Euro">45.00</preis>
+    </buch>
+    <buch ersch-jahr="1997" kat="reisen" isbn="3-899-77619-4">
+        <buchtitel>Italien für Anfänger</buchtitel>
+        <buchautor>Neckermann, Nick</buchautor>
+        <buchverlag>Globetrotter Verlag</buchverlag>
+        <preis waehrung="Euro">19.95</preis>
+    </buch>
+    <buch ersch-jahr="1974" kat="belletristik" isbn="3-518-36675-0">
+        <buchtitel>Der Steppenwolf</buchtitel>
+        <buchautor>Hesse, Hermann</buchautor>
+        <buchverlag>Suhrkamp</buchverlag>
+        <preis waehrung="Euro">7.50</preis>
+    </buch>
+    <buch ersch-jahr="2002" kat="belletristik" isbn="3-518-36682-3">
+        <buchtitel>Siddhartha</buchtitel>
+        <buchautor>Hesse, Hermann</buchautor>
+        <buchverlag>Suhrkamp</buchverlag>
+        <preis waehrung="Euro">11.80</preis>
+    </buch>
+</buchhandel>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Gedicht>
+	<Autor>Rainer Maria Rilke</Autor>
+	<Titel>Der Schwan</Titel>
+	<Vers number="1">
+		<Zeile class="first">Diese Mühsal, durch noch Ungetanes</Zeile>
+		<Zeile>schwer und wie gebunden hinzugehn,</Zeile>
+		<Zeile>gleicht dem ungeschaffnen Gang des Schwanes.</Zeile>
+	</Vers>
+	<Vers number="2">
+		<Zeile class="first">Und das Sterben, dieses Nichtmehrfassen</Zeile>
+		<Zeile>jenes Grunds, auf dem wir täglich stehn,</Zeile>
+		<Zeile>seinem ängstlichen Sich-Niederlassen:</Zeile>
+	</Vers>
+	<Vers number="3">
+		<Zeile class="first">in die Wasser, die ihn sanft empfangen</Zeile>
+		<Zeile>und die sich, wie glücklich und vergangen,</Zeile>
+		<Zeile>unter ihm zurückziehen, Flut um Flut;</Zeile>
+	</Vers>
+</Gedicht>
+
+
+
+
+

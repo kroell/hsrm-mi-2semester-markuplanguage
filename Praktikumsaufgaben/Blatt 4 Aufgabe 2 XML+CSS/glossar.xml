@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="glossar.css"?>
+
+<glossar>
+	<register>A
+		<eintrag>
+			<short>API</short>
+			<long>Application Programming Interface</long>
+		</eintrag>
+	</register>
+	<register>C
+		<eintrag>
+			<short>CML</short>
+			<long>Chemical Markup Language</long>
+		</eintrag>
+		<eintrag>
+			<short>CSS</short>
+			<long>Cascading Style Sheets</long>
+		</eintrag>
+	</register>
+	<register>D
+		<eintrag>
+			<short>DOM</short>
+			<long>Document Object Model</long>
+		</eintrag>
+		<eintrag>
+			<short>DTD</short>
+			<long>Document Type Definition</long>
+		</eintrag>
+	</register>
+</glossar>

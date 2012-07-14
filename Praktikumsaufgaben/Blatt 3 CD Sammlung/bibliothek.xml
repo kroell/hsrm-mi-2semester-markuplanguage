@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE library SYSTEM "bibliothek.dtd">
+
+<library>
+
+	<cd>
+		<album>An und fuer sich</album>
+		<interpret>Clueso</interpret>
+				<titlelist>
+					<title nr="01" length="03:33 Min">Zu schnell vorbei</title>
+					<title nr="02" length="04:12 Min">Beinah</title>
+					<title nr="03" length="02:45 Min">Strassen sind leer</title>
+					<title nr="04" length="05:23 Min">Muesste gehen</title>
+					<title nr="05" length="03:19 Min">Ey der Regen</title>
+				</titlelist>
+		<country>Deutschland</country>
+		<releaseyear>2011</releaseyear>	
+		<genre typ="Pop"/>
+	</cd>
+	
+	<cd>
+		<album>Like Water for Chocolate</album>
+		<interpret>Common</interpret>
+				<titlelist>
+					<title nr="01" length="03:33 Min">Zu schnell vorbei</title>
+					<title nr="02" length="04:12 Min">Beinah</title>
+					<title nr="03" length="02:45 Min">Strassen sind leer</title>
+					<title nr="04" length="05:23 Min">Muesste gehen</title>
+					<title nr="05" length="03:19 Min">Ey der Regen</title>
+				</titlelist>
+		<country>USA</country>
+		<releaseyear>2007</releaseyear>
+		<genre typ="Volksmusik"/>
+	</cd>
+	
+	<cd>
+		<album>Das waer dein Lied gewesen</album>
+		<interpret>Ina M&lt;ller</interpret>
+				<titlelist>
+					<title nr="01" length="03:33 Min">Zu schnell vorbei</title>
+					<title nr="02" length="04:12 Min">Beinah</title>
+					<title nr="03" length="02:45 Min">Strassen sind leer</title>
+					<title nr="04" length="05:23 Min">Muesste gehen</title>
+					<title nr="05" length="03:19 Min">Ey der Regen</title>
+				</titlelist>
+		<country>Deutschland</country>
+		<releaseyear>2011</releaseyear>
+		<genre typ="Rock"/>
+	</cd>
+	
+	<cd>
+		<album>To the Sea</album>
+		<interpret>Jack Johnson</interpret>
+				<titlelist>
+					<title nr="01" length="03:33 Min">Zu schnell vorbei</title>
+					<title nr="02" length="04:12 Min">Beinah</title>
+					<title nr="03" length="02:45 Min">Strassen sind leer</title>
+					<title nr="04" length="05:23 Min">Muesste gehen</title>
+					<title nr="05" length="03:19 Min">Ey der Regen</title>
+				</titlelist>
+		<country>USA</country>
+		<releaseyear>2010</releaseyear>
+		<genre typ="Klassik"/>
+	</cd>
+
+</library>

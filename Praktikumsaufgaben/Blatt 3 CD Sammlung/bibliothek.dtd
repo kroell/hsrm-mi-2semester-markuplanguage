@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!ELEMENT library (cd*)>
+<!ELEMENT cd (album, interpret, titlelist,country, releaseyear, genre)>
+<!ELEMENT album (#PCDATA)>
+<!ELEMENT interpret (#PCDATA)>
+<!ELEMENT titlelist (title*)>
+<!ELEMENT title (#PCDATA)>
+<!ATTLIST title
+	nr CDATA #REQUIRED
+	length CDATA #REQUIRED
+>
+<!ELEMENT country (#PCDATA)>
+<!ELEMENT releaseyear (#PCDATA)>
+<!ELEMENT genre EMPTY>
+<!ATTLIST genre
+	typ (Rock|Pop|Volksmusik|Klassik) #REQUIRED
+>

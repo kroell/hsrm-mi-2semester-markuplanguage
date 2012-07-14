@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="Attributwertvorlage.xsl" type="text/xsl"?>
+<spielplan>
+  <bild>
+    <name>Friedrich Schiller</name>
+    <quelle>C:\Dokumente und Einstellungen\krechel\Eigene Dateien\Vorlesungen\SS09\Auszeichnungssprachen\Vorlesung\BeispieleVL7\1\schiller.jpg</quelle>
+  </bild>
+  <eintrag>
+    <titel url="http://www.gutenberg.net/raeuber.html">Die Räuber</titel>
+    <autor>Friedrich Schiller</autor>
+    <premiere>17.09.2002</premiere>
+    <ausverkauft/>
+  </eintrag>
+  <eintrag>
+    <titel url=" http://www.gutenberg.net/faust.html">Faust</titel>
+    <autor>Johann Wolfgang Goethe</autor>
+    <premiere>20.10.2002</premiere>
+  </eintrag>
+  <eintrag>
+    <titel url=" http://www.gutenberg.net/sommernachtstraum.html">Ein Sommernachtstraum</titel>
+    <autor>William Shakespeare</autor>
+    <premiere>02.11.2002</premiere>
+  </eintrag>
+  <eintrag>
+    <titel url=" http://www.gutenberg.net/krug.html">Der zerbrochene Krug</titel>
+    <autor>Heinrich von Kleist</autor>
+    <premiere>17.12.2002</premiere>
+    <ausverkauft/>
+  </eintrag>
+</spielplan>
+

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="with-param.xsl" ?>
+<buecher>
+  <buch isbn="3608932453">
+    <titel>Das Silmarillion</titel>
+    <autor>J.R.R. Tolkien</autor>
+  </buch>
+  <buch isbn="3404201892">  
+    <titel>Die Belgariad-Saga I: Kind der Prophezeiung</titel>
+    <autor>David Eddings</autor>
+  </buch>
+  <buch isbn="3423071516">
+    <titel>Der kleine Hobbit</titel>
+    <autor>J.R.R. Tolkien</autor>
+  </buch>
+  <buch isbn="3785720386">  
+    <titel>Althalus</titel>
+    <autor>David Eddings</autor>
+  </buch>
+  <buch isbn="3831800049">
+    <titel>Fotokalender 2002, Herr der Ringe</titel>
+    <autor>J.R.R. Tolkien</autor>
+  </buch>
+</buecher>

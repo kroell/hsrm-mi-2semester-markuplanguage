@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="variable1.xsl" ?>
+<buecher>
+  <buch isbn="3608932453">
+    <titel>Das Silmarillion</titel>
+    <autor>J.R.R. Tolkien</autor>
+  </buch>
+  <buch isbn="3404201892">
+    <titel>Die Belgariad-Saga I: Kind der Prophezeiung</titel>
+    <autor>David Eddings</autor>
+  </buch>
+</buecher>

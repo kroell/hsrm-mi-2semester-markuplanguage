@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<katalog>
+	<metadaten>
+		<katalogname>Mode-Katalog</katalogname>
+		<firmenname>Fasion Online</firmenname>
+	</metadaten>
+	<artikel>
+		<bezeichnung>Shirt</bezeichnung>
+		<artikel-nr>ab-0001</artikel-nr>
+		<hersteller>
+			<firma>Tom Taiylor</firma>
+			<land>Deutschland</land>
+		</hersteller>
+		<eigenschaften farbe="schwarz" groesse="S"/>
+		<preis waehrung="EUR">19.90</preis>
+	</artikel>
+	<artikel>
+		<bezeichnung>Shirt</bezeichnung>
+		<artikel-nr>ab-0002</artikel-nr>
+		<hersteller>
+			<firma>Hilfanger</firma>
+			<land>USA</land>
+		</hersteller>
+		<eigenschaften farbe="schwarz" groesse="M"/>
+		<preis waehrung="USD">54.80</preis>
+	</artikel>
+	<artikel>
+		<bezeichnung>Hose</bezeichnung>
+		<artikel-nr>cd-0011</artikel-nr>
+		<hersteller>
+			<firma>Bose</firma>
+			<land>Deutschland</land>
+		</hersteller>
+		<eigenschaften farbe="blau" groesse="XL"/>
+		<preis waehrung="EUR">80.00</preis>
+	</artikel>
+	<artikel>
+		<bezeichnung>Hose</bezeichnung>
+		<artikel-nr>fg-0020</artikel-nr>
+		<hersteller>
+			<firma>Lovis</firma>
+			<land>USA</land>
+		</hersteller>
+		<eigenschaften farbe="schwarz" groesse="L"/>
+		<preis waehrung="USD">49.95</preis>
+	</artikel>
+	<artikel>
+		<bezeichnung>Pullover</bezeichnung>
+		<artikel-nr>de-0022</artikel-nr>
+		<hersteller>
+			<firma>Esprot</firma>
+			<land>Deutschland</land>
+		</hersteller>
+		<eigenschaften farbe="rot" groesse="M"/>
+		<preis waehrung="EUR">34.90</preis>
+	</artikel>
+	<artikel>
+		<bezeichnung>Pullover</bezeichnung>
+		<artikel-nr>xy-0017</artikel-nr>
+		<eigenschaften farbe="rot" groesse="M"/>
+		<preis waehrung="EUR">19.90</preis>
+	</artikel>
+	<artikel>
+		<bezeichnung>Socken</bezeichnung>
+		<artikel-nr>de-0015</artikel-nr>
+		<hersteller>
+			<firma>Airasis</firma>
+			<land>Schweiz</land>
+		</hersteller>
+		<eigenschaften farbe="weiss" groesse="S"/>
+		<preis waehrung="CHF">3.90</preis>
+	</artikel>
+</katalog>

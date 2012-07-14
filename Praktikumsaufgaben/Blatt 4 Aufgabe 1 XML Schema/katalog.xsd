@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema 
+xmlns:xsd="http://www.w3.org/2001/XMLSchema" 
+targetNamespace="http://www.example.org/katalog"
+>
+
+	<xsd:element name="katalog">
+		<xsd:complexeType>
+			<xsd:sequence>
+				<xsd:element name="metadaten" type="xsd:string" minOccurs="0" maxOccurs="1"/>
+				<xsd:element name="artikel" type="xsd:integer" minOccurs="0" maxOccurs="unbounded"/>
+			</xsd:sequence>
+		</xsd:complexeType>
+	</xsd:element>
+	
+	<xsd:element name="metadaten">
+		<xsd:complexeType>
+			<xsd:sequence>
+				<xsd:element name="katalogname" type="xsd:string"/>
+				<xsd:element name="firmenname" type="xsd:string"/>
+			</xsd:sequence>
+		</xsd:complexeType>
+	</xsd:element>
+	
+	<xsd:element name="katalogname" type="xsd:string"/>
+	<xsd:element name="firmenname" type="xsd:string"/>
+	
+	<xsd:element name="artikel">
+	<xsd:complexeType>
+		<xsd:sequence>
+			<xsd:element name="bezeichnung" type="xsd:string"/>
+			<xsd:element name="artikel-nr" type="xsd:integer"/>
+			<xsd:element name="hersteller" type="xsd:string" minOccurs="0" maxOccurs="unbounded"/>
+			<xsd:element name="eigenschaften" type="xsd:string"/>
+			<xsd:element name="preis" type="xsd:integer"/>
+		</xsd:sequence>
+	</xsd:complexeType>
+	</xsd:element>
+	
+	<xsd:element name="bezeichnung" type="xsd:string"/>
+	<xsd:element name="artikel-nr" type="xsd:integer"/>
+	
+	<xsd:element name="hersteller">
+		<xsd:complexeType>
+			<xsd:sequence>
+				<xsd:element name="firma" type="xsd:string"/>
+				<xsd:element name="land" type="xsd:string"/>
+			</xsd:sequence>
+		</xsd:complexeType>
+	</xsd:element>
+	
+	<xsd:element name="eigenschaften">
+		<xsd:complexeType>
+			<xsd:attribute name="farbe" type="xsd:string" use="required"/>
+			<xsd:attribute name="farbe" type="xsd:string" use="required"/>
+		</xsd:complexeType>
+	</xsd:element>
+	
+	<xsd:element name="preis" type="xsd:integer">
+		<xsd:complexeType>
+			<xsd:attribute name="waerhung" type="xsd:string" use="required"/>
+		</xsd:complexeType>
+	</xsd:element>
+		
+</xsd:schema>
+
+
+

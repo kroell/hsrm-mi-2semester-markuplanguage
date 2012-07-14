@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="variable3.xsl"?>
+<komponisten>
+  <komponist>
+   <name>Giacomo Puccini</name>
+   <geboren>1858</geboren>
+   <gestorben>1924</gestorben>
+  </komponist>
+  <komponist>
+    <name>Wolfgang Amadeus Mozart</name>
+    <geboren>1756</geboren>
+    <gestorben>1791</gestorben>
+  </komponist>
+  <komponist>
+    <name>Guiseppe Verdi</name>
+    <geboren>1813</geboren>
+    <gestorben>1901</gestorben>
+  </komponist>
+</komponisten>

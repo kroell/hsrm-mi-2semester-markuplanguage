@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="xsl-element.xsl" type="text/xsl"?>
+
+<spielplan>
+  <eintrag titel="Die Räuber" 
+           autor="Friedrich Schiller"
+           premiere="17.09.2002"
+  />
+  <eintrag titel="Faust"
+           autor="Johann Wolfgang Goethe"
+           premiere="20.10.2002"
+  />
+  <eintrag titel="Ein Sommernachtstraum"
+           autor="William Shakespeare"
+           premiere="02.11.2002"
+  />
+  <eintrag titel="Der zerbrochene Krug"
+           autor="Heinrich von Kleist"
+           premiere="17.12.2002"
+  />
+</spielplan>

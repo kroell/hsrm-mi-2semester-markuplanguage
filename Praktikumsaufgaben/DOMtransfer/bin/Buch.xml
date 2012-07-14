@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl"
+  href="Buch.xsl"
+?>
+
+<buch ISBN="12345">
+	<kapitel>
+		<titel>Einfuehrung</titel>
+		<absatz>das ist ein absatz</absatz>
+		<absatz>und noch ein absatz</absatz>
+	</kapitel>
+	<kapitel>
+		<titel>Ende</titel>
+		<absatz>das ist ein absatz in k.2</absatz>
+		<absatz>und noch ein absatz in k.2</absatz>
+	</kapitel>
+</buch>

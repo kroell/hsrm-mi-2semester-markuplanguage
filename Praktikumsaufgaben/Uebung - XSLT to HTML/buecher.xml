@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+
+<buecher>
+	<buch ISBN="12345" erschienen="2000">
+		<titel>Das Ende der Welt</titel>
+		<kapitel>
+			<titel>Einfuehrung</titel>
+			<absatz>das ist ein absatz</absatz>
+			<absatz>und noch ein absatz</absatz>
+		</kapitel>
+		<kapitel>
+			<titel>Ende</titel>
+			<absatz>das ist ein absatz in k.2</absatz>
+			<absatz>und noch ein absatz in k.2</absatz>
+		</kapitel>
+	</buch>
+	
+	<buch ISBN="31322" erschienen="2001">
+		<titel>ADS zum weglaufen</titel>
+		<autorKommentar>Dies ist ein schönes Buch</autorKommentar>
+		<kapitel>
+			<titel>Einfuehrung</titel>
+			<absatz>das ist ein absatz</absatz>
+			<absatz>und noch ein absatz</absatz>
+		</kapitel>
+		<kapitel>
+			<titel>Ende</titel>
+			<absatz>das ist ein absatz in k.2</absatz>
+			<absatz>und noch ein absatz in k.2</absatz>
+		</kapitel>
+	</buch>
+	
+	<buch ISBN="1111" erschienen="2003">
+		<titel>Programmieren für Anfänger</titel>
+		<autorKommentar>Dies ist auch ein schönes Buch</autorKommentar>
+		<kapitel>
+			<titel>Einfuehrung</titel>
+			<absatz>das ist ein absatz</absatz>
+			<absatz>und noch ein absatz</absatz>
+		</kapitel>
+		<kapitel>
+			<titel>Ende</titel>
+			<absatz>das ist ein absatz in k.2</absatz>
+			<absatz>und noch ein absatz in k.2</absatz>
+		</kapitel>
+	</buch>
+	
+	<buch ISBN="4711" erschienen="2002">
+		<titel>Recht für Fortgelaufene</titel>
+		<autorKommentar>Dies ist kein schönes Buch</autorKommentar>
+		<kapitel>
+			<titel>Einfuehrung</titel>
+			<absatz>das ist ein absatz</absatz>
+			<absatz>und noch ein absatz</absatz>
+		</kapitel>
+		<kapitel>
+			<titel>Ende</titel>
+			<absatz>das ist ein absatz in k.2</absatz>
+			<absatz>und noch ein absatz in k.2</absatz>
+		</kapitel>
+	</buch>
+</buecher>

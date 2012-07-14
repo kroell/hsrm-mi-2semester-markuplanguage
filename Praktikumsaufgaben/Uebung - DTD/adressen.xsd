@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" targetNamespace="http://www.example.org/adressen" xmlns:tns="http://www.example.org/adressen" elementFormDefault="qualified">
+
+
+
+<xs:element name="adressen">
+	<xs:element name="adresse" maxOccurs="unbounded"/>
+</xs:element>
+
+<xs:element name="adresse">
+	<xs:complexeType>
+		<xs:sequence>
+			<xs:element name="vorname"/>
+			<xs:element name="name"/>
+				<xs:complexeType>
+					<xs:choice>
+						<xs:element name="anschrift" typ="xs:string"/>
+						<xs:element name="postfach" typ="xs:string"/>
+					</xs:choice>
+				</xs:complexeType>
+			<xs:element name="telefon" maxOccurs="unbounded">
+				<xs:simpleType>
+					<xs:restriction base="xs:integer">
+						<xs:pattern value="[0-9] {5,12}"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:element>
+		</xs:sequence>
+	</xs:complexeType>
+</xs:element>
+
+<xs:element name="vorname" type="xs:string">
+	<xs:attribute name="anrede" use="required"/>
+	<xs:attribute name="titel" use="optional" default="kein">
+		<xs:simpleType>
+			<xs:restriction base="xs:string">
+					<xs:enumeration name="kein"/>
+					<xs:enumeration name="Dr"/>
+					<xs:enumeration name="Prof"/>
+			</xs:restriction>	
+		</xs:simpleType>
+	</xs:attribute>
+</xs:element>
+
+</xs:schema>

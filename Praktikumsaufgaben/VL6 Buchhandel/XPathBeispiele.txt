@@ -1,0 +1,40 @@
+*/buch[position()>1 and position() < 6] 
+
+*/buch[@kat]
+
+*/buch[@kat="belletristik"]
+
+*/buch[buchautor='Hafner, Katie' and buchautor='Lyon, Matthew']" 
+
+*/buch[preis/@waehrung='Euro']
+
+*/buch[contains(buchautor[1], 'Hans')]
+
+*/buch[contains(buchautor[1], 'Hans')]
+
+/buchhandel[concat('A', 'B')='AB']
+/buchhandel[floor(5.8) = 5]
+
+
+Rechnen:
+
+2.3 + 3.5
+round(6 + 3.5)
+8 div 3
+8 mod 3
+
+match="/buchhandel/buch"
+<xsl:value-of select="round(preis)"/>
+<xsl:value-of select="floor(preis)"/>
+<xsl:value-of select="ceiling(preis)"/>
+
+
+String:
+
+<xsl:value-of select="string-length(preis)"/>
+
+match="/"
+<xsl:value-of select="concat('A',' : ','B')"/>
+<xsl:value-of select="contains('ABCDE','B')"/>
+<xsl:value-of select="substring('ABCDE',2)"/>
+<xsl:value-of select="substring('ABCDE',2,2)"/>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!ELEMENT adressen (adresse*)>
+<!ELEMENT adresse (vorname, nachname, (anschrift | postfach), telefonnummer*)>
+<!ELEMENT vorname (#PCDATA)>
+<!ATTLIST vorname
+	anrede CDATA #REQUIRED
+	titel (kein|Dr|Prof) #IMPLIED
+>	
+<!ELEMENT nachname (#PCDATA)>
+<!ELEMENT anschrift (straße,ort)>
+<!ELEMENT straße (#PCDATA)>
+<!ELEMENT ort (#PCDATA)>
+<!ATTLIST ort
+	plz CDATA #REQUIRED
+>
+<!ELEMENT postfach (#PCDATA)>
+<!ELEMENT telefonnummer (#PCDATA)>

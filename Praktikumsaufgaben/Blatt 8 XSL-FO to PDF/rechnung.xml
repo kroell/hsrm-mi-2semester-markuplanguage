@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rechnung>
+	<nummer>RE-781238283</nummer>
+	<datum>2010-05-10</datum>
+	<aussteller>
+		<name>Gutes GmbH</name>
+		<strasse>Gutstraße 1</strasse>
+		<plz>12345</plz>
+		<ort>Guthausen</ort>
+	</aussteller>
+	<empfaenger>
+		<name>Frau Muster</name>
+		<strasse>Musterstraße 17</strasse>
+		<plz>17170</plz>
+		<ort>Musterstadt</ort>
+	</empfaenger>
+	<positionen>
+		<position>
+			<bezeichnung>XML kurz und gut (Broschiert)</bezeichnung>
+			<menge>4</menge>
+			<einzelpreis>9.90</einzelpreis>
+			<gesamtpreis>36.60</gesamtpreis>
+		</position>
+		<position>
+			<bezeichnung>XSLT (Taschenbuch)</bezeichnung>
+			<menge>1</menge>
+			<einzelpreis>36.95</einzelpreis>
+			<gesamtpreis>36.95</gesamtpreis>
+		</position>
+		<position>
+			<bezeichnung>XSLT Kochbuch (Broschiert)</bezeichnung>
+			<menge>1</menge>
+			<einzelpreis>52.00</einzelpreis>
+			<gesamtpreis>52.00</gesamtpreis>
+		</position>
+		<position>
+			<bezeichnung>XSL-FO - verstehen und anwenden: XML-Verarbeitung für
+				PDF und Druck (Broschiert)</bezeichnung>
+			<menge>2</menge>
+			<einzelpreis>49.00</einzelpreis>
+			<gesamtpreis>98.00</gesamtpreis>
+		</position>
+		<position>
+			<bezeichnung>XML Schema (Taschenbuch)</bezeichnung>
+			<menge>1</menge>
+			<einzelpreis>30.99</einzelpreis>
+			<gesamtpreis>30.99</gesamtpreis>
+		</position>
+		<position>
+			<bezeichnung>Versandkosten</bezeichnung>
+			<menge>1</menge>
+			<einzelpreis>6.90</einzelpreis>
+			<gesamtpreis>6.90</gesamtpreis>
+		</position>
+	</positionen>
+	<bemerkung>
+		Zahlbar binnen 7 Tagen bar mit 2% Skonto. Binnen 21 Tagen
+		zahlbar ohne Abzug.
+		Bei Zahlungen per Überweisung immer die
+		Rechnungsnummer angeben!
+	</bemerkung>
+	<bank>
+		<name>Gutbank</name>
+		<konto>1234567890</konto>
+		<blz>17017017</blz>
+	</bank>
+	<steuernummer>170171701717017</steuernummer>
+</rechnung>

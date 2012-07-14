@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="xsl-if.xsl" type="text/xsl"?>
+
+<spielplan>
+  <eintrag>
+    <titel>Die Räuber</titel>
+    <autor>Friedrich Schiller</autor>
+    <premiere>17.09.2002</premiere>
+    <aufführungsort>Kleiner Saal</aufführungsort>
+  </eintrag>
+  <eintrag>
+    <titel>Faust</titel>
+    <autor>Johann Wolfgang Goethe</autor>
+    <premiere>20.10.2002</premiere>
+    <aufführungsort>Großer Saal</aufführungsort>
+  </eintrag>
+  <eintrag>
+    <titel>Ein Sommernachtstraum</titel>
+    <autor>William Shakespeare</autor>
+    <premiere>02.11.2002</premiere>
+    <aufführungsort>Großer Saal</aufführungsort>
+  </eintrag>
+  <eintrag>
+    <titel>Der zerbrochene Krug</titel>
+    <autor>Heinrich von Kleist</autor>
+    <premiere>17.12.2002</premiere>
+    <aufführungsort>Studio</aufführungsort>
+  </eintrag>
+</spielplan>
+

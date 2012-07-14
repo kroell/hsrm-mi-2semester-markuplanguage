@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="template-mode.xsl" ?>
+<buch>
+  <kapitel>
+    <haupttitel>Fortgeschrittener Einsatz von Templates</haupttitel>
+    <unterkapitel>
+      <titel>Benannte Templates</titel>
+      <absatz>
+        Benannte Template Rules steuern Sie über das <code>&lt;xsl:call-template&gt;</code>-Element an. Über das <code>name</code>-Attribut dieses Elements geben Sie den Namen der Template Rule an, die Sie aufrufen möchten.
+      </absatz>
+    </unterkapitel>
+    <unterkapitel>
+      <titel>Templates mit verschiedenen Modi verwenden</titel>
+        <absatz>
+          Es kommt immer wieder vor, dass bestimmte Elemente oder Teile eines XML-Dokuments mehr als einmal im Ausgabedokument benötigt werden, aber die Transformation jeweils eine andere sein soll. Der klassische Anwendungsfall sind die Überschriften eines Buches, für die Sie einmal Template Rules benötigen, um Sie innerhalb des Textflusses auszugeben. Zusätzlich möchten Sie aber auf Basis der Überschriften ein Inhaltsverzeichnis erstellen. Somit benötigen Sie zwei Template Rules für ein Element.
+        </absatz>
+    </unterkapitel>
+  </kapitel>
+</buch>
